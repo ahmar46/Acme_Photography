@@ -1,4 +1,4 @@
-### This Website is iphotography studio called electrifying studios and it is fully responsive on all Devices.
+### This Website is imphotography studio called electrifying studios and it is fully responsive on all Devices.
 
 ### Technologies Used: HTML, CSS, JavaScript.
 
