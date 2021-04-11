@@ -1,4 +1,4 @@
-### This Website is for  photography studio called electrifying studios and it is fully responsive on all Devices.
+### This Website is for photography studio called electrifying studios and it is fully responsive on all Devices.
 
 ### Technologies Used: HTML, CSS, Javacript.
 
