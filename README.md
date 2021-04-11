@@ -1,6 +1,6 @@
 ### This Website is for d photography studio called electrifying studios and it is fully responsive on all Devices.
 
-### Technologies Used: HTML, CSS, Javacript.
+### Technologies Used: HTML, CSS, JavaScript.
 
 ### Find me on Instagram: [@elelctrifyingcodes][instagram].
 
